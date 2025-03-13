@@ -40,7 +40,7 @@ function Contact() {
             required></textarea>
         </div>
         <input className="hover btn" type="submit" value="Submit" />
-      </form>
+      </form>     
     </section>
   );
 }
