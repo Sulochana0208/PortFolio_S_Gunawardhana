@@ -6,7 +6,7 @@ import githubLight from '../../assets/github-light.svg';
 import githubDark from '../../assets/github-dark.svg';
 import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
-import CV from '../../assets/S_Gunawardhana_CV_Resume.pdf';
+import CV from '../../assets/G_S_D_B_Gunawardhana_CV_Resume.pdf';
 import { useTheme } from '../../common/ThemeContext';
 
 function Hero() {
